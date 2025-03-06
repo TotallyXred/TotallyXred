@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TotallyXred
 - 👀 I’m interested in coding and astronomy.
-- 🌱 I’m currently learning CSS3 and Javascript.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing. I just started this career.
 - 📫 How to reach me? I don't know.
 
